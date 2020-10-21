@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I really have no idea what to put here. So...
+Holla, I'm Jonathan. Stay awesome ✨✨✨
+
 <!--
 **i-jonathan/i-jonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
