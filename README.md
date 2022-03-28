@@ -8,7 +8,11 @@
 - 📫 How to reach me **farinloyejonathan@gmail.com**
 
 - 📄 Know about my experiences [on my Resume](https://docs.google.com/document/d/e/2PACX-1vRys5zamseAh-18i2YmTOmer1xQBO7-ihpm58cuhtafSEuwGlcSZwiahaxcosSrMw0vQIxho_yUbOfa/pub)
-<br>
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-jonathan&count_private=true&show_icons=true@theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-jonathan&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=i-jonathan&count_private=true&show_icons=true@theme=dracula" alt="Farinloye Jonathan's GitHub Stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-jonathan&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="Farinloye Jonathan's Most Used GitHub Languages" />
+</a>
