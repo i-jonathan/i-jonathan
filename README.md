@@ -1,19 +1,14 @@
-### Hi there 👋
+<h1 align="center">Holla, I'm Jonathan. Stay awesome ✨✨✨</h1>
+<h3 align="center">I'm a Software Engineer based on Planet Earth, timezone is UTC +1.</h3>
 
-I really have no idea what to put here. So...
-Holla, I'm Jonathan. Stay awesome ✨✨✨
+- 🔭 I’m currently working on **Some API's and stuff like that**
 
-<!--
-**i-jonathan/i-jonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Tools for DevOps**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **farinloyejonathan@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences [on my Resume](https://docs.google.com/document/d/e/2PACX-1vRys5zamseAh-18i2YmTOmer1xQBO7-ihpm58cuhtafSEuwGlcSZwiahaxcosSrMw0vQIxho_yUbOfa/pub)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
