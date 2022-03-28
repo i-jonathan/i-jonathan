@@ -12,7 +12,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=i-jonathan&count_private=true&show_icons=true&theme=dracula" alt="Farinloye Jonathan's GitHub Stats" />
 </a>
-
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-jonathan&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="Farinloye Jonathan's Most Used GitHub Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-jonathan&count_private=true&theme=dracula&show_icons=true&hide=css" alt="Farinloye Jonathan's Most Used GitHub Languages" />
 </a>
